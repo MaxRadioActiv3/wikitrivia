@@ -116,6 +116,7 @@ const badCards = {
   Q174097: "Hogwarts",
   Q8690: "Cultural Revolution",
   Q149086: "Homicide"
-};
+};"Simon of Cyrene"
+
 
 export default badCards;
